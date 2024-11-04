@@ -1,4 +1,4 @@
-<h1 align="center" id="title">weConnect</h1>
+<h1 align="center" id="title">weConnectt</h1>
 
 <p align="center"><img src="https://rb.gy/rd5it0" alt="WeConnect Logo" width="90" height="90"></p>
 
